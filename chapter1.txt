@@ -1,0 +1,15 @@
+dedication takes you far away with discipline.
+
+//GIT COMMAND//
+git init
+mkdir
+cd filename
+touch  = to create file 
+ls -a = to see hidden files
+git status  - to see status 
+git add - filename to change working directory to staging Area and now your file is ready to commit
+git add . = it leads to change all working directory file to staging area
+git commit -m "complete file name" = now file commit form staging Area to git repository
+git log  = shows commit changes all the file which can commit
+git diff filename = shows what are things modify back to its initial stage.
+git rm --cached -r . = to remove all staging file to working directory
